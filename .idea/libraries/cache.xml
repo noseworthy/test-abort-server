@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="cache">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.yarn/cache/@tsconfig-strictest-npm-2.0.2-8bfd467013-5409233288.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.yarn/cache/@types-node-npm-20.6.0-73d5022935-52611801af.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.yarn/cache/typescript-npm-5.2.2-01717e9f84-7912821dac.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.yarn/cache/@tsconfig-node18-npm-18.2.2-659635cc4d-1c4b04b570.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.yarn/cache/typescript-patch-2e8dbfb8ab-0f4da2f15e.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
